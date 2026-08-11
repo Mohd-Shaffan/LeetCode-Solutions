@@ -1,34 +1,26 @@
 class Solution {
 public:
+    void reverse(string &s,int lo,int hi){
+        while(lo<=hi){
+            swap(s[lo],s[hi]);
+            lo++;hi--;
+        }
+    } 
     string reverseWords(string s) {
-        stack<string> str;
-        string help = "";
+        stringstream ss(s); string word; s = "";
+        while(ss >> word) s += word + " ";
+        if(!s.empty()) s.pop_back();
+        int n=s.size();
 
-        for (int i = 0; i < s.size(); i++) {
-            if (s[i] == ' ') {
-                if (!help.empty()) { // Khali space push na ho
-                    str.push(help);
-                    help = "";
-                }
-            } else {
-                help += s[i];
+        int start=0;
+        for(int end=0;end<s.size();end++){
+            if(s[end]==' '){
+                reverse(s,start,end-1);
+                start=end+1;
             }
         }
-        
-        // Loop ke baad bacha hua last word push karna
-        if (!help.empty()) {
-            str.push(help);
-        }
-
-        help = "";
-        while (!str.empty()) {
-            help += str.top();
-            str.pop(); // Brackets correct kiye
-            if (!str.empty()) {
-                help += ' '; // Aakhri word ke baad extra space na aaye
-            }
-        }
-
-        return help;
+        reverse(s,start,n-1);
+        reverse(s,0,n-1);
+        return s;
     }
 };
