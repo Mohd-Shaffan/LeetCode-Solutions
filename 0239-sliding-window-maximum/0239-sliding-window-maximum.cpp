@@ -1,21 +1,7 @@
 class Solution {
 public:
-    int helper(vector<int> &nums,int i, int k){
-        int maxx=INT_MIN;
-        for(int j=i;j<=k+i-1;j++){
-            maxx=max(maxx,nums[j]);
-        }
-        return maxx;
-    }
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
         int n= nums.size();
-        // not an optimal approach o:)
-        // vector<int> ans;
-        // for(int i=0;i<=n-k;i++){
-        //     int max=helper(nums,i,k);
-        //     ans.push_back(max);
-        // }
-
         int ngi[n];
         ngi[n-1]=n;
         stack<int> st;
