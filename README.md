@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0493-reverse-pairs](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [1929-concatenation-of-array](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Simulation
 |  |
 | ------- |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
