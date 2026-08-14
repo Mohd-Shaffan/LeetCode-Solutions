@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
