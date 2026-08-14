@@ -1,43 +1,48 @@
 class MinStack {
 public:
-    stack<int> st;
-    stack<int> helper;
-    MinStack() {
-        
-    }
-    
-    void push(int value) {
-        if(!helper.empty() && value>helper.top()) helper.push(helper.top());
-        else{
-            helper.push(value);
-        }
-        st.push(value);
-        
+    stack<long long> st;
+    long long mini;
 
-        
+    MinStack() {}
+    
+    void push(int val) {
+        long long x = val;
+        if (st.empty()) {
+            mini = x;
+            st.push(x);
+        } else if (x >= mini) {
+            st.push(x);
+        } else {
+            // Encoded value push karo
+            st.push(2 * x - mini);
+            mini = x; // Update minimum
+        }
     }
     
     void pop() {
-        st.pop();
-        helper.pop();
+        if (st.empty()) return;
         
+        long long topVal = st.top();
+        st.pop();
+        
+        // Agar popped element current mini se chhota tha, 
+        // toh matlab ye encoded val thi -> purana mini restore karo
+        if (topVal < mini) {
+            mini = 2 * mini - topVal;
+        }
     }
     
     int top() {
-        return st.top();
+        if (st.empty()) return -1;
         
+        long long topVal = st.top();
+        if (topVal < mini) {
+            return mini;
+        }
+        return topVal;
     }
     
     int getMin() {
-        return helper.top();
+        return mini;
     }
 };
-
-/**
- * Your MinStack object will be instantiated and called as such:
- * MinStack* obj = new MinStack();
- * obj->push(value);
- * obj->pop();
- * int param_3 = obj->top();
- * int param_4 = obj->getMin();
- */
