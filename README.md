@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0493-reverse-pairs](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0622-design-circular-queue](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0649-dota2-senate) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Sliding Window
 |  |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0649-dota2-senate) |
+## Sorting
+|  |
+| ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
