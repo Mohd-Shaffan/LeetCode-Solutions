@@ -139,12 +139,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0622-design-circular-queue](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0138-copy-list-with-random-pointer](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 ## Greedy
 |  |
 | ------- |
