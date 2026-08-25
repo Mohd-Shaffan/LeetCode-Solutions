@@ -149,6 +149,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Greedy
 |  |
 | ------- |
@@ -174,6 +175,7 @@
 | [0257-binary-tree-paths](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -188,6 +190,7 @@
 | [0257-binary-tree-paths](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -205,6 +208,7 @@
 | [0257-binary-tree-paths](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## DP on Trees
 |  |
 | ------- |
@@ -216,6 +220,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
 |  |
 | ------- |
