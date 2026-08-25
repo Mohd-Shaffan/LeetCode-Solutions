@@ -11,6 +11,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0649-dota2-senate](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0649-dota2-senate) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Greedy
 |  |
@@ -162,6 +164,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Tree
 |  |
 | ------- |
@@ -250,4 +253,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Counting
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
