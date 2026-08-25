@@ -48,6 +48,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -153,6 +154,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Greedy
@@ -256,5 +258,6 @@
 ## Counting
 |  |
 | ------- |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
