@@ -6,7 +6,7 @@ public:
         for( auto ele : nums ){
             int i = ele[0]*ele[0];
             int j = ele[1]*ele[1];
-            double di=sqrt(i+j);
+            double di=(i+j);
             p x;
             x.first=di;
             x.second={ele[0],ele[1]};
