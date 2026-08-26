@@ -53,6 +53,7 @@
 | [0658-find-k-closest-elements](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -149,6 +150,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
 |  |
 | ------- |
