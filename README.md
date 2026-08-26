@@ -45,6 +45,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
@@ -83,6 +84,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
@@ -134,6 +136,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -169,6 +172,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Tree
@@ -268,4 +272,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
