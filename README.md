@@ -17,6 +17,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
@@ -84,6 +85,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -325,4 +327,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
