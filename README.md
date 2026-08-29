@@ -21,6 +21,7 @@
 | [0063-unique-paths-ii](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
 |  |
@@ -51,6 +52,7 @@
 | [0198-house-robber](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
@@ -273,6 +275,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
 |  |
@@ -336,4 +339,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
