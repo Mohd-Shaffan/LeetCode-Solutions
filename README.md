@@ -68,6 +68,7 @@
 | [1046-last-stone-weight](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -89,6 +90,7 @@
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -98,6 +100,7 @@
 | [0070-climbing-stairs](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -152,6 +155,7 @@
 | [0649-dota2-senate](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -363,4 +367,5 @@
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
