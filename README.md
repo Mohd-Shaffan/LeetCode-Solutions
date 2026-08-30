@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0606-construct-string-from-binary-tree](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0649-dota2-senate](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Dynamic Programming
@@ -234,6 +235,7 @@
 | [0257-binary-tree-paths](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -249,6 +251,7 @@
 | [0257-binary-tree-paths](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -267,6 +270,7 @@
 | [0257-binary-tree-paths](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## DP on Trees
 |  |
