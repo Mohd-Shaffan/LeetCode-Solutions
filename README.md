@@ -95,6 +95,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -350,4 +351,12 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0322-coin-change) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
