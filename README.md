@@ -68,6 +68,7 @@
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -201,6 +202,7 @@
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0649-dota2-senate) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sorting
 |  |
 | ------- |
