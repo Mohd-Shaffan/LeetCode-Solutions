@@ -260,6 +260,7 @@
 | [0226-invert-binary-tree](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0386-lexicographical-numbers](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
@@ -378,4 +379,8 @@
 | [0273-integer-to-english-words](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
