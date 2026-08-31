@@ -97,6 +97,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0779-k-th-symbol-in-grammar](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -372,6 +374,7 @@
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
@@ -379,6 +382,7 @@
 | [0273-integer-to-english-words](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Trie
 |  |
 | ------- |
