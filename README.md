@@ -196,6 +196,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0622-design-circular-queue](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
