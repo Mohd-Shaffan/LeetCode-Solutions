@@ -14,6 +14,7 @@
 | [0273-integer-to-english-words](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0606-construct-string-from-binary-tree](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0649-dota2-senate](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0649-dota2-senate) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Dynamic Programming
 |  |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -384,6 +386,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
