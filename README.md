@@ -77,6 +77,7 @@
 | [1929-concatenation-of-array](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Mohd-Shaffan/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
 | ------- |
